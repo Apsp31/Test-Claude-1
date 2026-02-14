@@ -1,0 +1,40 @@
+============================================================
+  Chrome Bookmark Deduplication Report
+============================================================
+
+SUMMARY
+----------------------------------------
+  Folders before:                22
+  Folders after:                 12
+  URLs before:                   43
+  URLs after:                    31
+
+  Duplicate folders merged:       6
+  Import folders processed:       2
+  Duplicate URLs removed:        12
+  Empty folders removed:          0
+
+  Total nodes removed:           22
+
+DETAILED LOG
+----------------------------------------
+  Merged 2 folders named 'Programming' at bookmark_bar
+  Merged 2 folders named 'Google' at bookmark_bar
+  Merged 2 folders named 'News & Info' at bookmark_bar
+  Removed 1 duplicate URL(s) in 'Bookmarks bar' at bookmark_bar
+  Removed 2 duplicate URL(s) in 'Programming' at bookmark_bar > Programming
+  Removed 2 duplicate URL(s) in 'Google' at bookmark_bar > Google
+  Removed 3 duplicate URL(s) in 'News & Info' at bookmark_bar > News & Info
+  Merged 2 folders named 'Cloud' at other
+  Removed 1 duplicate URL(s) in 'Other bookmarks' at other
+  Removed 1 duplicate URL(s) in 'Cloud' at other > Cloud
+  Processing import folder 'Imported from Firefox' at other
+    Merged imported sub-folder 'Cloud' into existing folder
+  Processing import folder 'Imported from Edge' at other
+    Merged imported sub-folder 'Bookmarks bar' into existing folder
+  Removed 1 duplicate URL(s) in 'Cloud' at other > Cloud
+  Merged 2 folders named 'Programming' at other > Bookmarks bar
+  Merged 2 folders named 'Entertainment' at other > Bookmarks bar
+  Removed 1 duplicate URL(s) in 'Programming' at other > Bookmarks bar > Programming
+
+============================================================
