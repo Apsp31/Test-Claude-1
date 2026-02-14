@@ -1,0 +1,416 @@
+{
+   "checksum": "abc123def456",
+   "roots": {
+      "bookmark_bar": {
+         "children": [
+            {
+               "date_added": "13200000000000000",
+               "date_last_used": "0",
+               "date_modified": "13220000000000000",
+               "guid": "f001",
+               "id": "5",
+               "name": "Programming",
+               "type": "folder",
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "date_added": "13220000000000000",
+                           "date_last_used": "0",
+                           "guid": "a007",
+                           "id": "16",
+                           "name": "React Docs",
+                           "type": "url",
+                           "url": "https://react.dev/"
+                        }
+                     ],
+                     "date_added": "13220000000000000",
+                     "date_last_used": "0",
+                     "date_modified": "13220000000000000",
+                     "guid": "f002",
+                     "id": "17",
+                     "name": "JavaScript",
+                     "type": "folder"
+                  },
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "a001",
+                     "id": "10",
+                     "name": "Python Docs",
+                     "type": "url",
+                     "url": "https://docs.python.org/3/"
+                  },
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "a002",
+                     "id": "11",
+                     "name": "Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/"
+                  },
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "a003",
+                     "id": "12",
+                     "name": "PyPI",
+                     "type": "url",
+                     "url": "https://pypi.org/"
+                  },
+                  {
+                     "date_added": "13220000000000000",
+                     "date_last_used": "0",
+                     "guid": "a006",
+                     "id": "15",
+                     "name": "Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/"
+                  }
+               ]
+            },
+            {
+               "date_added": "13200000000000000",
+               "date_last_used": "0",
+               "date_modified": "13230000000000000",
+               "guid": "f004",
+               "id": "7",
+               "name": "Google",
+               "type": "folder",
+               "children": [
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "a010",
+                     "id": "20",
+                     "name": "Gmail",
+                     "type": "url",
+                     "url": "https://mail.google.com/"
+                  },
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "a011",
+                     "id": "21",
+                     "name": "Google Calendar",
+                     "type": "url",
+                     "url": "https://calendar.google.com/"
+                  },
+                  {
+                     "date_added": "13230000000000000",
+                     "date_last_used": "0",
+                     "guid": "a013",
+                     "id": "23",
+                     "name": "Google Drive",
+                     "type": "url",
+                     "url": "https://drive.google.com/"
+                  }
+               ]
+            },
+            {
+               "children": [
+                  {
+                     "date_added": "13210000000000000",
+                     "date_last_used": "0",
+                     "guid": "a020",
+                     "id": "30",
+                     "name": "YouTube",
+                     "type": "url",
+                     "url": "https://youtube.com/"
+                  },
+                  {
+                     "date_added": "13210000000000000",
+                     "date_last_used": "0",
+                     "guid": "a021",
+                     "id": "31",
+                     "name": "Netflix",
+                     "type": "url",
+                     "url": "https://www.netflix.com/"
+                  },
+                  {
+                     "date_added": "13210000000000000",
+                     "date_last_used": "0",
+                     "guid": "a022",
+                     "id": "32",
+                     "name": "Spotify",
+                     "type": "url",
+                     "url": "https://open.spotify.com/"
+                  }
+               ],
+               "date_added": "13210000000000000",
+               "date_last_used": "0",
+               "date_modified": "13210000000000000",
+               "guid": "f006",
+               "id": "9",
+               "name": "Entertainment",
+               "type": "folder"
+            },
+            {
+               "date_added": "13250000000000000",
+               "date_last_used": "0",
+               "date_modified": "13260000000000000",
+               "guid": "f007",
+               "id": "42",
+               "name": "News & Info",
+               "type": "folder",
+               "children": [
+                  {
+                     "date_added": "13250000000000000",
+                     "date_last_used": "0",
+                     "guid": "a040",
+                     "id": "50",
+                     "name": "Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/"
+                  },
+                  {
+                     "date_added": "13250000000000000",
+                     "date_last_used": "0",
+                     "guid": "a041",
+                     "id": "51",
+                     "name": "Hacker News",
+                     "type": "url",
+                     "url": "https://news.ycombinator.com/"
+                  },
+                  {
+                     "date_added": "13250000000000000",
+                     "date_last_used": "0",
+                     "guid": "a042",
+                     "id": "52",
+                     "name": "Reddit",
+                     "type": "url",
+                     "url": "https://www.reddit.com/?utm_source=google&utm_medium=cpc"
+                  },
+                  {
+                     "date_added": "13260000000000000",
+                     "date_last_used": "0",
+                     "guid": "a046",
+                     "id": "56",
+                     "name": "Ars Technica",
+                     "type": "url",
+                     "url": "https://arstechnica.com/"
+                  }
+               ]
+            },
+            {
+               "date_added": "13200000000000000",
+               "date_last_used": "0",
+               "guid": "a030",
+               "id": "40",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }
+         ],
+         "date_added": "13200000000000000",
+         "date_last_used": "0",
+         "date_modified": "13260000000000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [
+            {
+               "date_added": "13200000000000000",
+               "date_last_used": "0",
+               "date_modified": "13250000000000000",
+               "guid": "df001",
+               "id": "303",
+               "name": "Cloud",
+               "type": "folder",
+               "children": [
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "d001",
+                     "id": "300",
+                     "name": "AWS Console",
+                     "type": "url",
+                     "url": "https://console.aws.amazon.com/"
+                  },
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "d002",
+                     "id": "301",
+                     "name": "GCP Console",
+                     "type": "url",
+                     "url": "https://console.cloud.google.com/"
+                  },
+                  {
+                     "date_added": "13200000000000000",
+                     "date_last_used": "0",
+                     "guid": "d003",
+                     "id": "302",
+                     "name": "Azure Portal",
+                     "type": "url",
+                     "url": "https://portal.azure.com/"
+                  },
+                  {
+                     "date_added": "13250000000000000",
+                     "date_last_used": "0",
+                     "guid": "d005",
+                     "id": "305",
+                     "name": "DigitalOcean",
+                     "type": "url",
+                     "url": "https://cloud.digitalocean.com/"
+                  }
+               ]
+            },
+            {
+               "children": [
+                  {
+                     "date_added": "13210000000000000",
+                     "date_last_used": "0",
+                     "date_modified": "13240000000000000",
+                     "guid": "bf001",
+                     "id": "103",
+                     "name": "Programming",
+                     "type": "folder",
+                     "children": [
+                        {
+                           "date_added": "13210000000000000",
+                           "date_last_used": "0",
+                           "guid": "b001",
+                           "id": "100",
+                           "name": "Python Docs",
+                           "type": "url",
+                           "url": "https://docs.python.org/3/"
+                        },
+                        {
+                           "date_added": "13210000000000000",
+                           "date_last_used": "0",
+                           "guid": "b002",
+                           "id": "101",
+                           "name": "Django Docs",
+                           "type": "url",
+                           "url": "https://docs.djangoproject.com/"
+                        },
+                        {
+                           "date_added": "13210000000000000",
+                           "date_last_used": "0",
+                           "guid": "b003",
+                           "id": "102",
+                           "name": "Flask",
+                           "type": "url",
+                           "url": "https://flask.palletsprojects.com/"
+                        },
+                        {
+                           "date_added": "13240000000000000",
+                           "date_last_used": "0",
+                           "guid": "c002",
+                           "id": "201",
+                           "name": "Go Docs",
+                           "type": "url",
+                           "url": "https://go.dev/doc/"
+                        },
+                        {
+                           "date_added": "13240000000000000",
+                           "date_last_used": "0",
+                           "guid": "c003",
+                           "id": "202",
+                           "name": "Rust Book",
+                           "type": "url",
+                           "url": "https://doc.rust-lang.org/book/"
+                        }
+                     ]
+                  },
+                  {
+                     "date_added": "13210000000000000",
+                     "date_last_used": "0",
+                     "date_modified": "13240000000000000",
+                     "guid": "bf002",
+                     "id": "106",
+                     "name": "Entertainment",
+                     "type": "folder",
+                     "children": [
+                        {
+                           "date_added": "13210000000000000",
+                           "date_last_used": "0",
+                           "guid": "b004",
+                           "id": "104",
+                           "name": "YouTube",
+                           "type": "url",
+                           "url": "https://youtube.com/"
+                        },
+                        {
+                           "date_added": "13210000000000000",
+                           "date_last_used": "0",
+                           "guid": "b005",
+                           "id": "105",
+                           "name": "Twitch",
+                           "type": "url",
+                           "url": "https://twitch.tv/"
+                        },
+                        {
+                           "date_added": "13240000000000000",
+                           "date_last_used": "0",
+                           "guid": "c004",
+                           "id": "204",
+                           "name": "Netflix",
+                           "type": "url",
+                           "url": "https://netflix.com/"
+                        },
+                        {
+                           "date_added": "13240000000000000",
+                           "date_last_used": "0",
+                           "guid": "c005",
+                           "id": "205",
+                           "name": "Disney+",
+                           "type": "url",
+                           "url": "https://www.disneyplus.com/"
+                        }
+                     ]
+                  },
+                  {
+                     "date_added": "13210000000000000",
+                     "date_last_used": "0",
+                     "guid": "b006",
+                     "id": "107",
+                     "name": "GitHub",
+                     "type": "url",
+                     "url": "https://github.com/"
+                  }
+               ],
+               "date_added": "13210000000000000",
+               "date_last_used": "0",
+               "date_modified": "13210000000000000",
+               "guid": "bf003",
+               "id": "108",
+               "name": "Bookmarks bar",
+               "type": "folder"
+            },
+            {
+               "date_added": "13200000000000000",
+               "date_last_used": "0",
+               "guid": "e001",
+               "id": "400",
+               "name": "LinkedIn",
+               "type": "url",
+               "url": "https://www.linkedin.com/"
+            }
+         ],
+         "date_added": "13200000000000000",
+         "date_last_used": "0",
+         "date_modified": "13260000000000000",
+         "guid": "other-guid",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [],
+         "date_added": "13200000000000000",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "synced-guid",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
